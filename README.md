@@ -7,8 +7,9 @@ This data file includes all needed information to find out more about hosts, geo
 Acknowledgements
 This public dataset is part of Airbnb, and the original source can be found on this website (http://insideairbnb.com).
 
-Inspiration
-What can we learn about different hosts and areas?
-What can we learn from predictions? (ex: locations, prices, reviews, etc)
-Which hosts are the busiest and why?
-Is there any noticeable difference in traffic among different areas and what could be the reason for it?
+**Inspiration**
+
+- What can we learn about different hosts and areas?
+- What can we learn from predictions? (ex: locations, prices, reviews, etc)
+- Which hosts are the busiest and why?
+- Is there any noticeable difference in traffic among different areas and what could be the reason for it?
