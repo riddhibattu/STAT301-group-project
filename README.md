@@ -1,3 +1,12 @@
 # STAT301-group-project
-The US Census Bureau has published California Census Data which has 10 types of metrics such as the population, median income, median housing price, and so on for each block group in California. The dataset also serves as an input for project scoping and tries to specify the functional and nonfunctional r requirements for it.
-link: https://www.kaggle.com/datasets/shibumohapatra/house-price
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+
+Acknowledgements
+This public dataset is part of Airbnb, and the original source can be found on this website (http://insideairbnb.com).
+
+Inspiration
+What can we learn about different hosts and areas?
+What can we learn from predictions? (ex: locations, prices, reviews, etc)
+Which hosts are the busiest and why?
+Is there any noticeable difference in traffic among different areas and what could be the reason for it?
